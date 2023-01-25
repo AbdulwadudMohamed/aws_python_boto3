@@ -1,4 +1,4 @@
-<h1 align="center">AWS Python-boto3</h1>
+<h1 align="center">AWS Python (boto3)</h1>
 
 ## Goal
 
